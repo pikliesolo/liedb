@@ -9,18 +9,6 @@
       "pass": "6705917558",
       "role": "admin",
       "limit": 999999
-    },
-    {
-      "name": "krii",
-      "pass": "paser123",
-      "role": "user",
-      "limit": 10
-    },
-    {
-      "name": "pembeli1",
-      "pass": "dark123",
-      "role": "user",
-      "limit": 50
     }
   ]
 }
