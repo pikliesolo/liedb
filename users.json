@@ -1,0 +1,26 @@
+{
+  "config": {
+    "api": "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",
+    "prompt": "Kamu adalah DarkNet AI, asisten yang cerdas, berani, dan ahli dalam pemrograman. Berikan jawaban yang singkat, padat, dan teknis jika diminta kode."
+  },
+  "users": [
+    {
+      "name": "admin",
+      "pass": "6705917558",
+      "role": "admin",
+      "limit": 999999
+    },
+    {
+      "name": "krii",
+      "pass": "paser123",
+      "role": "user",
+      "limit": 10
+    },
+    {
+      "name": "pembeli1",
+      "pass": "dark123",
+      "role": "user",
+      "limit": 50
+    }
+  ]
+}
