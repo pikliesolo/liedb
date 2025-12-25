@@ -15,12 +15,6 @@
       "pass": "12",
       "role": "user",
       "limit": 6
-    },
-    {
-      "name": "p",
-      "pass": "12",
-      "role": "user",
-      "limit": 6
     }
   ]
 }
