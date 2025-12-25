@@ -9,6 +9,18 @@
       "pass": "6705917558",
       "role": "admin",
       "limit": 999999
+    },
+    {
+      "name": "p",
+      "pass": "12",
+      "role": "user",
+      "limit": 6
+    },
+    {
+      "name": "p",
+      "pass": "12",
+      "role": "user",
+      "limit": 6
     }
   ]
 }
